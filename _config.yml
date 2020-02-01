@@ -2,7 +2,7 @@
 # avatar
 avatar: /avatar/avatar.jpg
 # author name
-author: Harley-xk
+author: 好吃的碎碎冰
 # signature
 signature: Swift Developer
 # SNS (you can custom the order)
@@ -29,28 +29,28 @@ social:
   others: 
   rss: 
 # friends
-friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+# friends:
+#   friendA: //www.baidu.com
+#   friendB: //www.google.com
+#   friendC: 
 about:
-  enable: true
+  enable: false
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: 群星陨落
+SEO_title: 碎碎冰工坊
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: 群星陨落
+main_title: 碎碎冰工坊
 # subtitle
 subtitle: 给时光以生命，给岁月以文明
 # site haeder image
-site_header_image: '/intro/anastasia-dulgier-OKOOGO578eo-unsplash.jpg'
+site_header_image: '/intro/index-bg.jpg'
 # post haeder image
 post_header_image: '/intro/post-bg.jpg'
 # 404 image
@@ -96,7 +96,7 @@ busuanzi_slug: 'PV: ${count} :)'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
-google_analytics: 
+google_analytics: UA-67049148-5
 # CNZZ analytics
 CNZZ_analytics: 
 
