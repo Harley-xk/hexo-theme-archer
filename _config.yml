@@ -50,9 +50,9 @@ main_title: 碎碎冰工坊
 # subtitle
 subtitle: 给时光以生命，给岁月以文明
 # site haeder image
-site_header_image: '/intro/index-bg.jpg'
+site_header_image: '/intro/2020.png'
 # post haeder image
-post_header_image: '/intro/post-bg.jpg'
+post_header_image: '/intro/swift-code.png'
 # 404 image
 _404_image: '/intro/404-bg.jpg'
 
@@ -110,7 +110,7 @@ toc: true
 # word count & reading time
 reading_info: true
 # intro height (the default is 50 percents of the screen, you can input other number)
-index_intro_height: 40
+index_intro_height: 50
 post_intro_height: 40
 about_intro_height: 50
 # copyright
